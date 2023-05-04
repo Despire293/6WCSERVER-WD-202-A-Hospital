@@ -14,7 +14,7 @@
 |------------------------------|
 
 
-BACKGROUND:
+
 Many in our days live in a generation where convenience is a must. Backthen, the
 archives offices are being useful in retrieving datas to perform records of people and the data
 really helps people to identify one another, the world has full of paper and the value of the
